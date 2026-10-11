@@ -4,7 +4,7 @@ Mapa interactivo de quince quesos italianos, desarrollado a partir de un trabajo
 
 **🔗 Ver la página:** https://marcelodvpm.github.io/Quesos-de-Italia/
 
-<img width="740" height="740" alt="QR_Quesos_de_Italia" src="https://github.com/user-attachments/assets/2e30ab1c-8bec-489b-ac97-822189cf3589" />
+<img width="200" height="200" alt="QR_Quesos_de_Italia" src="https://github.com/user-attachments/assets/2e30ab1c-8bec-489b-ac97-822189cf3589" />
 [Código QR de la página](QR_Quesos_de_Italia.png)
 
 ## ¿Qué es?
